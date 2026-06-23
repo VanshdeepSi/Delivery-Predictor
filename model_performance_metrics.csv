@@ -1,0 +1,9 @@
+Metric,Value
+Test Accuracy,98.05%
+Test Precision,97.77%
+Test Recall,97.38%
+Test F1-Score,0.98
+Test ROC-AUC,0.98
+Sensitivity,97.38%
+Specificity,98.50%
+CV Mean Accuracy,97.96%
